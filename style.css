@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+#main-header{
+    background-color: #FEEAE9;
+}
+
+.carousel-inner{
+    padding: 20px;
+}
+
+.buy-now-header a{
+    text-decoration: none;
+    background-color: #FF136F;
+    padding: 10px 20px;
+    
+}
+
+.top-header-price{
+    color: #FF136F;
+}
+
+.category{
+    height: 200px;
+}
+
