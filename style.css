@@ -1,28 +1,68 @@
 body{
+    /* margin: 0; */
     font-family: 'Poppins', sans-serif;
-
 }
 
-#main-header{
+h2{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.carousel{
     background-color: #FEEAE9;
-}
-
-.carousel-inner{
     padding: 20px;
 }
 
-.buy-now-header a{
-    text-decoration: none;
+.btn-top-header{
     background-color: #FF136F;
-    padding: 10px 20px;
-    
+    color: #fff;
 }
 
-.top-header-price{
+.custom-red-color{
     color: #FF136F;
 }
 
-.category{
-    height: 200px;
+/* .container{
+    margin-top: 20px;
+} */
+
+.category-1{
+    background-image: linear-gradient(to right,  #FF9C35, #f1ad63);
+    padding: 20px; 
+}
+.category-2{
+    background-image: linear-gradient(  #FF589B, #f782b1);
+    padding: 20px; 
+}
+.category-3{
+    background-image: linear-gradient(to left,  #4289FF,#5c8edd);
+    padding: 20px; 
 }
 
+.carousel-section{
+    margin-top: 80px;
+}
+
+.see-all{
+    color: orangered
+}
+
+.product-container{
+    background-color: rgb(228, 228, 228);
+}
+
+.contact-me{
+    height: 300px;
+    background-color: #FEEAE9;
+    
+}
+
+.btn-email-send{
+    background-color: #FF589B;
+    color: white;
+    font-weight: bold;
+}
